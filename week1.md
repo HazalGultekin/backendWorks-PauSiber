@@ -23,6 +23,7 @@ ___
 - Sistemin Java kodu ile uygun bir şekilde çalışabilmesi için gerekli düzenlemeleri JVM yapar. 
 - Bizim yapmamız gereken tek şey Java kodunun çalışacağı makineye uygun JVM'yi yüklemek ve kodumuzu derlemektir.
 
-<img src="https://3.bp.blogspot.com/-9-PtVzGOrEE/XG2pPuyK2MI…hsmxHMWchXPQCLcBGAs/s1600/getStarted-compiler.gif"/>
+<img src="https://3.bp.blogspot.com/-9-PtVzGOrEE/XG2pPuyK2MI…hsmxHMWchXPQCLcBGAs/s1600/getStarted-compiler.gif" width="396" height= "409"/>
+
 
 ___
