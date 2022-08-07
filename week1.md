@@ -24,7 +24,6 @@ ___
 - Bizim yapmamız gereken tek şey Java kodunun çalışacağı makineye uygun JVM'yi yüklemek ve kodumuzu derlemektir.
 
 ![alt text](https://4.bp.blogspot.com/-vTqyF7UgP9I/XG2pPpfkRUI/AAAAAAAACuE/7XxYXLoXzQAk_aiwZNiTHzMhy_zjCv4uwCEwYBhgL/s400/helloWorld.gif")
-![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKk5bbEuFHSxe0o5sY2mkR0s5hBdjmIvbECQ&usqp=CAU)
-
 
 ___
+
