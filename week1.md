@@ -33,9 +33,7 @@ ___
 - İçerisinde JVM, JRE, Java kütüphaneleri, Java Compiler ve Interpreter içerir.
 - Bir java uygulaması geliştirmek için JDK yüklememiz yeterlidir çünkü diğer araçları JDK içirisinde barındırır.
 
-
-![alt text](https://3.bp.blogspot.com/-FJlgPrqlK_U/XG2thrIIx-I…_7WlvF4WLXUMgaksvswCLcBGAs/s640/javagenelyapi.jpg")
-
+<img src="https://3.bp.blogspot.com/-FJlgPrqlK_U/XG2thrIIx-I…_7WlvF4WLXUMgaksvswCLcBGAs/s640/javagenelyapi.jpg" width="640" height="417"/>
 
 ___
 
